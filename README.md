@@ -4,8 +4,7 @@ json otput for go -bench
     go test -bench=. -run=^$ -benchmem ./... | ./gobenchtojson
 
 
-        }
-  ],
+```
   "github.com/caasmo/restinpieces/crypto": [
     {
       "name": "BenchmarkNewJwtSigningKey-8",
@@ -44,3 +43,4 @@ json otput for go -bench
     }
   ]
 }
+```
